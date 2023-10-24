@@ -1,0 +1,40 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav ul li a{
+    background-color: yellow;
+    color: blue;
+    text-decoration: none;
+    padding: 10px;
+    margin: center;
+    height: 20px;
+    width: auto;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline;
+}
+.body{
+    background-color: aliceblue;
+    width: 80%;
+    height: fit-content;
+    color: black;
+}
+.main{
+    background-color: burlywood;
+    width: 70%;
+    height: fit-content;
+    padding: 20px;
+    margin: 20px;
+
+
+}
+h1{
+    background-color: rgb(0, 255, 179);
+    width:70% ;
+    margin: 20px;
+    padding: 20px;
+}
+nav ul li a:hover{
+    background-color: blueviolet;
+}
